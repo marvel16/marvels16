@@ -16,3 +16,12 @@ C:\Users\vilnytskyi\Documents\Visual Studio 2013\Projects\Game2048\Game2048\obj\
 C:\Users\vilnytskyi\Documents\Visual Studio 2013\Projects\Game2048\Game2048\obj\Debug\Game2048.Form1.resources
 C:\Users\vilnytskyi\Documents\Visual Studio 2013\Projects\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
 C:\Users\vilnytskyi\Documents\Visual Studio 2013\Projects\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.Cache
+D:\github\marvels16\Game2048\Game2048\bin\Debug\Game2048.exe.config
+D:\github\marvels16\Game2048\Game2048\obj\Debug\Game2048.exe
+D:\github\marvels16\Game2048\Game2048\obj\Debug\Game2048.pdb
+D:\github\marvels16\Game2048\Game2048\bin\Debug\Game2048.exe
+D:\github\marvels16\Game2048\Game2048\bin\Debug\Game2048.pdb
+D:\github\marvels16\Game2048\Game2048\obj\Debug\Game2048.csprojResolveAssemblyReference.cache
+D:\github\marvels16\Game2048\Game2048\obj\Debug\Game2048.Form1.resources
+D:\github\marvels16\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+D:\github\marvels16\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.Cache
