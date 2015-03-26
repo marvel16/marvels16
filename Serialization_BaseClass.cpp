@@ -15,14 +15,14 @@ int main() {
 
 	l.b = l.a;
 	l.Save("point.txt");
-	
 	// create new line and load state from file
 	Line l2;
 	
 	l2.Load("point.txt");
-	cout << "p.x = " << p.x << endl;
-	cout << "p.y = " << p.y << endl;
-	cout << "p.z = " << p.z << endl;
-	cout << "p.s = " << p.s << endl;
+	cout << "p.x = " << l2.a.x << endl;
+	cout << "p.y = " << l2.a.y << endl;
+	cout << "p.z = " << l2.a.z << endl;
+	cout << "p.s = " << l2.a.s << endl;
+
 	return 0;
 }
